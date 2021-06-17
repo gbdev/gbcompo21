@@ -24,8 +24,19 @@ We'd love to hear from partecipants, share your progresses on Twitter using the 
 
 
 
+## PRIZE POOL
 
+The current prize pool is X and will be split according to the following table: TODO.
 
+The rankings are decided according to the [JUDGING](#JUDGING) criteria.
+
+The entire prize pool is community funded. You can donate [here](https://github.com/sponsors/avivace?editing=true&frequency=one-time). GitHub will match your amount, doubling the effect on the prize pool! We're extremely grateful to the following contributors: LIST_OF_DONATORS
+
+### OPEN SOURCE BONUS
+
+If you publish your game source code and assets on a public repository (e.g. GitHub) under an open source license (GPL, MIT, Apache, CC0) you get 20% more of the prize as a bonus!
+
+*Prize tiers are still work in progress, expect changes. Money prizes are subject to fees and conversions. They may be delivered as gift cards of your choice. The open source bonus applies to the monetary part of the prize, even if you get two (e.g. an entry wins the 4th place + the most technically impressive prize, 20% is applied on 60+50)*
 
 ## RULES
 
@@ -47,3 +58,4 @@ We'd love to hear from partecipants, share your progresses on Twitter using the 
 ## JUDGING
 
 ## FAQ
+
