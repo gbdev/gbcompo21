@@ -14,10 +14,10 @@ We'd love to hear from participants, share your progress on Twitter using the `#
    - [Pan Docs](https://gbdev.io/pandocs), Game Boy technical documentation
    - [Awesome Game Boy Development list of resources](https://gbdev.io/list)
      - Especially relevant the ["Software Development"](https://gbdev.io/list.html#software-development) paragraph
-   - [How to choose between C and ASM for GB?](https://gbdev.io/guides/tools.html#asm-help)
+   - [How to choose between C and ASM for GB?](https://gbdev.io/guides/tools.html#languages)
 - [RGBDS](https://rgbds.gbdev.io/) (ASM language)
   - [GB ASM Tutorial](https://eldred.fr/gb-asm-tutorial)
-- GBDK (C language)
+- [GBDK](https://github.com/gbdk-2020/gbdk-2020/) (C language)
    - [API docs: Getting Started](https://gbdk-2020.github.io/gbdk-2020/docs/api/docs_getting_started.html)
    - [Examples](https://github.com/mrombout/gbdk_playground)
    - [Docs, links and tools](https://gbdk-2020.github.io/gbdk-2020/docs/api/docs_links_and_tools.html)
