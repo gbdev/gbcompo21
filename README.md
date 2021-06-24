@@ -72,5 +72,17 @@ If you publish your game source code and assets on a public repository (e.g. Git
 
 ## JUDGING
 
+<TODO>
+      
 ## FAQ
 
+<TODO>
+         
+## CREDITS
+
+Special thanks to:
+
+- Hosts from all the different gbdev communities: <TODO>
+- [Optix](https://github.com/Hacktix), for the awesome logo
+- Judges: <TODO>
+- Prize pool donators: <TODO>
