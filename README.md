@@ -2,7 +2,7 @@
 
 *Create original games, demos or homebrews for the original Game Boy (Color) and compete for glory (and a lot of prizes)!*
 
-Join the **gb compo 2021** from July 1 to October 1 at [itch.io/gbcompo21](https://itch.io/jam/gbcompo21).
+Join the **gb compo 2021** from July 1 to October 1 at [itch.io/jam/gbcompo21](https://itch.io/jam/gbcompo21).
 
 ---
 
