@@ -34,9 +34,9 @@ We'd love to hear from participants, share your progress on Twitter using the `#
 
 ## PRIZE POOL
 
-The current prize pool is **$700** and will be split according to the [this](https://docs.google.com/spreadsheets/d/196vIZGLbSk1ewzRnZc7Dy_LJdPQpfJUg-udT4iyBVOg) document.
+The current prize pool is **$700** and will be split according to [this](https://docs.google.com/spreadsheets/d/196vIZGLbSk1ewzRnZc7Dy_LJdPQpfJUg-udT4iyBVOg) document.
 
-Entries will compete in 4 different disjoint categories and 4 rankings will be drawn up. Based on these leaderboards, the top entries will be awarded as follos:
+Entries will compete in 4 different disjoint categories and 4 rankings will be drawn up. Based on these leaderboards, the top entries will be awarded as follows:
 
 - Best games (80% of the prize pool)
   - The best 5 games will get a prize.
@@ -52,7 +52,7 @@ The entire prize pool is community funded. You can donate any amount you wish th
 - [GitHub sponsors](https://github.com/sponsors/avivace?editing=true&frequency=one-time). 
 - [OpenCollective](https://opencollective.com/gbdev?language=fr)
  
-GitHub is the preffered way, as it will match your amount (if your account is not new), **doubling** the effect on the prize pool!
+GitHub is the preferred way, as it will match your amount (if your account is not new), **doubling** the effect on the prize pool!
 
 ### OPEN SOURCE BONUS
 
@@ -65,9 +65,9 @@ If you publish your game source code and assets on a public repository (e.g. Git
 1. Final entry "deliverable" must consist of a GB or GBC ROM file. You can also attach descriptive documents in TXT, Markdown or HTML file format (e.g. game manual).
 2. The ROM file will be tested on real hardware (usually a DMG or a GBC) and on the BGB emulator. In case of different results, the hardware test will be the trusted one.
 3. GBC features are allowed.
-4. SGB features are allowed. The entries will be evaluated mainly on Game Boy (Color). You can add use SGB functionalities , but don't rely on them as main features for your entry.
+4. SGB features are allowed. The entries will be evaluated mainly on Game Boy (Color). You can add SGB functionalities , but don't rely on them as main features for your entry.
 5. Teams are allowed (award will be split).
-6. The competition is focused on *games*, but you are allowed to submit *homebrew tools*, *demos* and *music cartridges*. There may be special category prizes for those. There are no preffered themes.
+6. The competition is focused on *games*, but you are allowed to submit *homebrew tools*, *demos* and *music cartridges*. There may be special category prizes for those. There are no preferred themes.
 7. ROM Hacks are not allowed.
 8. NSFW contents are not allowed. Please keep it safe for work and avoid anything overly edgy or distasteful. 
 9. You can submit more than one entry. They will be rated separately, but each person or team may only accept prizes on behalf of a single entry (e.g., you can't win both the 1st and 2nd place prize).
@@ -88,7 +88,7 @@ Games are judged by every judge on the following criteria:
 - Graphics  -  How impressive are the art, animation and visual effects? (if applicable)
 - Audio  -  How good are the music and sound effects? (if applicable)
 
-The leadboard is computed by averaging the "Overall" score.
+The leaderboard is computed by averaging the "Overall" score.
 
 ## FAQ
 
