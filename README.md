@@ -36,7 +36,7 @@ We'd love to hear from participants, share your progress on Twitter using the `#
 
 The current prize pool is **$700** and will be split according to [this](https://docs.google.com/spreadsheets/d/196vIZGLbSk1ewzRnZc7Dy_LJdPQpfJUg-udT4iyBVOg) document.
 
-Entries will compete in 4 different disjoint categories and 4 rankings will be drawn up. Based on these leaderboards, the top entries will be awarded as follows:
+Entries will compete in 4 separate categories and 4 rankings will be drawn up. Based on these leaderboards, the top entries will be awarded as follows:
 
 - Best games (80% of the prize pool)
   - The best 5 games will get a prize.
@@ -79,7 +79,7 @@ If you publish your game source code and assets on a public repository (e.g. Git
 
 ## JUDGING
 
-Games are judged by every judge on the following criteria:
+Judges will evaluate games using the following criteria:
 
 - Overall  -  What do you think of this entry as a whole? (sum of the other scores)
 - Gameplay - How entertaining are the gameplay mechanics? How fun is the game?
