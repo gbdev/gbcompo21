@@ -55,18 +55,18 @@ If you publish your game source code and assets on a public repository (e.g. Git
 
 ## RULES
 
-1. Final entry must consist of a GB or GBC ROM file.
+1. Final entry "deliverable" must consist of a GB or GBC ROM file. You can also attach a documents in TXT, Markdown or HTML file format (e.g. game manual).
 2. The ROM file will be tested on real hardware (usually a DMG or a GBC) and on the BGB emulator. In case of different results, the hardware test will be the trusted one.
 3. GBC features are allowed.
 4. SGB features are allowed. The entries will be evaluated mainly on Game Boy (Color). You can add use SGB functionalities , but don't rely on them as main features for your entry.
 5. Teams are allowed (award will be split).
-6. The competition is focused on *games*, but you are allowed to submit *homebrew tools*, *demos* and *music cartridges*. There may be special category prizes for those.
+6. The competition is focused on *games*, but you are allowed to submit *homebrew tools*, *demos* and *music cartridges*. There may be special category prizes for those. There are no preffered themes.
 7. ROM Hacks are not allowed.
 8. NSFW contents are not allowed. Please keep it safe for work and avoid anything overly edgy or distasteful. 
 9. You can submit more than one entry. They will be rated separately, but each person or team may only accept prizes on behalf of a single entry (e.g., you can't win both the 1st and 2nd place prize).
 10. Judges can submit entries, but they are not eligible for prizes.
 11. ROM size must be compliant to known MBCs.
-12. As long as you produce a GB or GBC ROM file, any tool to develop the entry is allowed. This includes RGBDS (ASM), GBDK (C), ZGB (C), GBStudio, ..
+12. As long as you produce a GB or GBC ROM file that runs on GB/GBC, any tool to develop the entry is allowed. This includes RGBDS (ASM), GBDK (C), ZGB (C), GBStudio, ..
 13. 
 
 
