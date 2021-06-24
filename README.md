@@ -55,7 +55,7 @@ If you publish your game source code and assets on a public repository (e.g. Git
 
 ## RULES
 
-1. Final entry "deliverable" must consist of a GB or GBC ROM file. You can also attach a documents in TXT, Markdown or HTML file format (e.g. game manual).
+1. Final entry "deliverable" must consist of a GB or GBC ROM file. You can also attach descriptive documents in TXT, Markdown or HTML file format (e.g. game manual).
 2. The ROM file will be tested on real hardware (usually a DMG or a GBC) and on the BGB emulator. In case of different results, the hardware test will be the trusted one.
 3. GBC features are allowed.
 4. SGB features are allowed. The entries will be evaluated mainly on Game Boy (Color). You can add use SGB functionalities , but don't rely on them as main features for your entry.
