@@ -74,10 +74,10 @@ If you publish your game source code and assets on a public repository (e.g. Git
 10. Judges can submit entries, but they are not eligible for prizes.
 11. ROM size must be compliant to known MBCs.
 12. As long as you produce a GB or GBC ROM file that runs on GB/GBC, any tool to develop the entry is allowed. This includes RGBDS (ASM), GBDK (C), ZGB (C), GBStudio, ..
-13. Source code is optional, but very much appreciated. Entries submitted with source code (public repositories on GitHub/GitLab/,.. are accepted) and with an open source license (GPL, MIT, Apache, CC0 for code, any CC for assets) are eligible for **additional** prizes.
+13. Source code is optional, but very much appreciated. Entries submitted with source code (public repositories on GitHub/GitLab/,.. are accepted) and with an open source license (GPL, MIT, Apache, CC0 for code, any CC for assets) are eligible for **additional** prizes. Make sure to fill the "Open Source repository" field with a valid and public repository when submitting on itch.io.
+14. The entry must be submitted on the itch.io jam page.
 
-
-## JUDGING CRITERIA
+## JUDGING
 
 Games are judged by every judge on the following criteria:
 
