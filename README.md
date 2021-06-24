@@ -8,7 +8,7 @@
 
 ## COMMUNITY
 
-Come join us on <a href="https://discord.io/gbdev" target="_blank">Discord</a> for help getting started, and head over to <a href="https://gbdev.io" target="_blank">gbdev.io</a> for useful links & resources!
+Come join us <a href="https://gbdev.io/chat" target="_blank">on Discord or others</a> for help getting started, and head over to <a href="https://gbdev.io" target="_blank">gbdev.io</a> for useful links & resources!
 
 We'd love to hear from participants, share your progress on Twitter using the `#gbcompo` hashtag and join the conversation the on Discord `#compo-chat` channel!
 
@@ -17,7 +17,7 @@ We'd love to hear from participants, share your progress on Twitter using the `#
 - General links
    - [Pan Docs](https://gbdev.io/pandocs), Game Boy technical documentation
    - [Awesome Game Boy Development list of resources](https://gbdev.io/list)
-     - Especially relevant the ["Software Development"](https://gbdev.io/list.html#software-development) paragraph
+     - Especially relevant is the ["Software Development"](https://gbdev.io/list.html#software-development) paragraph
    - [How to choose between C and ASM for GB?](https://gbdev.io/guides/tools.html#languages)
 - [RGBDS](https://rgbds.gbdev.io/) (ASM language)
   - [GB ASM Tutorial](https://eldred.fr/gb-asm-tutorial)
@@ -34,7 +34,7 @@ We'd love to hear from participants, share your progress on Twitter using the `#
 
 ## PRIZE POOL
 
-The current prize pool is **$700** and will be split according to [this](https://docs.google.com/spreadsheets/d/196vIZGLbSk1ewzRnZc7Dy_LJdPQpfJUg-udT4iyBVOg) document.
+The current prize pool is **$700** and will be split according to [this document](https://docs.google.com/spreadsheets/d/196vIZGLbSk1ewzRnZc7Dy_LJdPQpfJUg-udT4iyBVOg).
 
 Entries will compete in 4 separate categories and 4 rankings will be drawn up. Based on these leaderboards, the top entries will be awarded as follows:
 
@@ -56,7 +56,7 @@ GitHub is the preferred way, as it will match your amount (if your account is no
 
 ### OPEN SOURCE BONUS
 
-If you publish your game source code and assets on a public repository (e.g. GitHub) under an open source license (GPL, MIT, Apache, CC0) you get **20%** more of the prize as a bonus!
+If you publish your game source code and assets on a public repository (e.g. GitHub) under [an open source license](https://choosealicense.com/) (GPL, MIT, Apache, CC0...) you get **20%** more of the prize as a bonus!
 
 *Prize tiers are still work in progress, expect changes. Money prizes are subject to fees and conversions. They may be delivered as gift cards of your choice.*
 
@@ -65,28 +65,28 @@ If you publish your game source code and assets on a public repository (e.g. Git
 1. Final entry "deliverable" must consist of a GB or GBC ROM file. You can also attach descriptive documents in TXT, Markdown or HTML file format (e.g. game manual).
 2. The ROM file will be tested on real hardware (usually a DMG or a GBC) and on the BGB emulator. In case of different results, the hardware test will be the trusted one.
 3. GBC features are allowed.
-4. SGB features are allowed. The entries will be evaluated mainly on Game Boy (Color). You can add SGB functionalities , but don't rely on them as main features for your entry.
+4. SGB features are allowed. The entries will be evaluated mainly on Game Boy (Color). You can use SGB features, but don't rely on them as main features for your entry.
 5. Teams are allowed (award will be split).
 6. The competition is focused on *games*, but you are allowed to submit *homebrew tools*, *demos* and *music cartridges*. There may be special category prizes for those. There are no preferred themes.
 7. ROM Hacks are not allowed.
-8. NSFW contents are not allowed. Please keep it safe for work and avoid anything overly edgy or distasteful. 
+8. NSFW content is not allowed. Please keep it safe for work and avoid anything overly edgy or distasteful. 
 9. You can submit more than one entry. They will be rated separately, but each person or team may only accept prizes on behalf of a single entry (e.g., you can't win both the 1st and 2nd place prize).
 10. Judges can submit entries, but they are not eligible for prizes.
-11. ROM size must be compliant to known MBCs.
-12. As long as you produce a GB or GBC ROM file that runs on GB/GBC, any tool to develop the entry is allowed. This includes RGBDS (ASM), GBDK (C), ZGB (C), GBStudio, ..
-13. Source code is optional, but very much appreciated. Entries submitted with source code (public repositories on GitHub/GitLab/,.. are accepted) and with an open source license (GPL, MIT, Apache, CC0 for code, any CC for assets) are eligible for **additional** prizes. Make sure to fill the "Open Source repository" field with a valid and public repository when submitting on itch.io.
+11. ROM size must be compliant to [known MBCs](https://gbdev.io/pandocs/MBCs.html). MBC5 or MBC3 are recommended for compatibility reasons.
+12. As long as you produce a GB or GBC ROM file that runs on GB/GBC, any tool to develop the entry is allowed. This includes RGBDS (ASM), GBDK (C), ZGB (C), GB Studio, ...
+13. Source code is optional, but very much appreciated. Entries submitted with source code (public repositories on GitHub/GitLab/... are accepted) and with an open source license (GPL, MIT, Apache, CC0 for code, any CC for assets) are eligible for **additional** prizes. Make sure to fill the "Open Source repository" field with a valid and public repository when submitting on itch.io.
 14. The entry must be submitted on the itch.io jam page.
 
 ## JUDGING
 
 Judges will evaluate games using the following criteria:
 
-- Overall  -  What do you think of this entry as a whole? (sum of the other scores)
-- Gameplay - How entertaining are the gameplay mechanics? How fun is the game?
-- Technical - How innovative is it from a technical perspective? Does it push the hardware to the limit?
-- Originality - How refreshing is it from a non-technical perspective? Does it have a unique design / mechanics?
-- Graphics  -  How impressive are the art, animation and visual effects? (if applicable)
-- Audio  -  How good are the music and sound effects? (if applicable)
+- **Overall**  -  What do you think of this entry as a whole? (sum of the other scores)
+- **Gameplay** - How entertaining are the gameplay mechanics? How fun is the game?
+- **Technical** - How innovative is it from a technical perspective? Does it push the hardware to the limit?
+- **Originality** - How refreshing is it from a non-technical perspective? Does it have a unique design / mechanics?
+- **Graphics**  -  How impressive are the art, animation and visual effects? (if applicable)
+- **Audio**  -  How good are the music and sound effects? (if applicable)
 
 The leaderboard is computed by averaging the "Overall" score.
 
