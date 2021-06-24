@@ -10,7 +10,7 @@
 
 Come join us on <a href="https://discord.io/gbdev" target="_blank">Discord</a> for help getting started, and head over to <a href="https://gbdev.io" target="_blank">gbdev.io</a> for useful links & resources!
 
-We'd love to hear from participants, share your progress on Twitter using the `#gbcompo` hashtag and join us the Discord `#compo-chat` channel!
+We'd love to hear from participants, share your progress on Twitter using the `#gbcompo` hashtag and join the conversation the on Discord `#compo-chat` channel!
 
 ## RESOURCES
 
