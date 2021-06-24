@@ -34,7 +34,16 @@ We'd love to hear from participants, share your progress on Twitter using the `#
 
 ## PRIZE POOL
 
-The current prize pool is <X> and will be split according to the following table: <PRIZES_TABLES>.
+The current prize pool is **$700** and will be split according to the [this](https://docs.google.com/spreadsheets/d/196vIZGLbSk1ewzRnZc7Dy_LJdPQpfJUg-udT4iyBVOg) document.
+
+Entries will compete in 4 different disjoint categories and 4 rankings will be drawn up. Based on these leaderboards, the top entries will be awarded as follos:
+
+- Best games (80% of the prize pool)
+  - The best 5 games will get a prize.
+  - The best 3 OSS games will get an additional prize (can overlap)
+- Best homebrew/tool (1)
+- Best music cartridge (1)
+- Best demo (1)
 
 The rankings are decided according to the [JUDGING](#JUDGING) criteria.
 
@@ -43,15 +52,13 @@ The entire prize pool is community funded. You can donate any amount you wish th
 - [GitHub sponsors](https://github.com/sponsors/avivace?editing=true&frequency=one-time). 
 - [OpenCollective](https://opencollective.com/gbdev?language=fr)
  
-GitHub is the preffered way, as it will match your amount (if your account is not new), doubling the effect on the prize pool!
-
-We're extremely grateful to the following contributors: <LIST_OF_DONATORS>
+GitHub is the preffered way, as it will match your amount (if your account is not new), **doubling** the effect on the prize pool!
 
 ### OPEN SOURCE BONUS
 
 If you publish your game source code and assets on a public repository (e.g. GitHub) under an open source license (GPL, MIT, Apache, CC0) you get **20%** more of the prize as a bonus!
 
-*Prize tiers are still work in progress, expect changes. Money prizes are subject to fees and conversions. They may be delivered as gift cards of your choice. The open source bonus applies to the monetary part of the prize, even if you get two (e.g. an entry wins the 4th place + the most technically impressive prize, 20% is applied on 60+50)*
+*Prize tiers are still work in progress, expect changes. Money prizes are subject to fees and conversions. They may be delivered as gift cards of your choice.*
 
 ## RULES
 
@@ -70,14 +77,23 @@ If you publish your game source code and assets on a public repository (e.g. Git
 13. Source code is optional, but very much appreciated. Entries submitted with source code (public repositories on GitHub/GitLab/,.. are accepted) and with an open source license (GPL, MIT, Apache, CC0 for code, any CC for assets) are eligible for **additional** prizes.
 
 
-## JUDGING
+## JUDGING CRITERIA
 
-<TODO>
-      
+Games are judged by every judge on the following criteria:
+
+- Overall  -  What do you think of this entry as a whole? (sum of the other scores)
+- Gameplay - How entertaining are the gameplay mechanics? How fun is the game?
+- Technical - How innovative is it from a technical perspective? Does it push the hardware to the limit?
+- Originality - How refreshing is it from a non-technical perspective? Does it have a unique design / mechanics?
+- Graphics  -  How impressive are the art, animation and visual effects? (if applicable)
+- Audio  -  How good are the music and sound effects? (if applicable)
+
+The leadboard is computed by averaging the "Overall" score.
+
 ## FAQ
 
-<TODO>
-         
+Something not clear? Open an issue or join the discussion on Discord.
+
 ## CREDITS
 
 Special thanks to:
