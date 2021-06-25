@@ -72,7 +72,7 @@ If you publish your game source code and assets on a public repository (e.g. Git
 8. NSFW content is not allowed. Please keep it safe for work and avoid anything overly edgy or distasteful. 
 9. You can submit more than one entry. They will be rated separately, but each person or team may only accept prizes on behalf of a single entry (e.g., you can't win both the 1st and 2nd place prize).
 10. Judges can submit entries, but they are not eligible for prizes.
-11. ROM size must be compliant to [known MBCs](https://gbdev.io/pandocs/MBCs.html). MBC5 or MBC3 are recommended for compatibility reasons.
+11. ROM size must be compliant to [known MBCs](https://gbdev.io/pandocs/MBCs.html). MBC5 or MBC3 are recommended for compatibility reasons. No MBC is allowed too (32k).
 12. As long as you produce a GB or GBC ROM file that runs on GB/GBC, any tool to develop the entry is allowed. This includes RGBDS (ASM), GBDK (C), ZGB (C), GB Studio, ...
 13. Source code is optional, but very much appreciated. Entries submitted with source code (public repositories on GitHub/GitLab/... are accepted) and with an open source license (GPL, MIT, Apache, CC0 for code, any CC for assets) are eligible for **additional** prizes. Make sure to fill the "Open Source repository" field with a valid and public repository when submitting on itch.io.
 14. The entry must be submitted on the itch.io jam page.
