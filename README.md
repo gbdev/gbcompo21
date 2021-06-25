@@ -1,4 +1,7 @@
-![gbcompo21](assets/banner.png)
+
+<p align="center">
+<img src="assets/square.png" width="50%">
+</p>
 
 *Create original games, demos or homebrews for the original Game Boy (Color) and compete for glory (and a lot of prizes)!*
 
