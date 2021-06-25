@@ -79,13 +79,15 @@ If you publish your game source code and assets on a public repository (e.g. Git
 12. As long as you produce a GB or GBC ROM file that runs on GB/GBC, any tool to develop the entry is allowed. This includes RGBDS (ASM), GBDK (C), ZGB (C), GB Studio, ...
 13. Source code is optional, but very much appreciated. Entries submitted with source code (public repositories on GitHub/GitLab/... are accepted) and with an open source license (GPL, MIT, Apache, CC0 for code, any CC for assets) are eligible for **additional** prizes. Make sure to fill the "Open Source repository" field with a valid and public repository when submitting on itch.io.
 14. The entry must be submitted on the itch.io jam page.
-15. Your work must be new and original. You cannot enter with something you were already working on before the start of the jam. The majority of work should be done during the jam. If in doubt, please ask us before proceeding. Examples of things that are allowed:
-  - A brand new game using your own (or any) existing game engine.
-  - A remake of your (or someone else's) game for a different platform, but with new code and assets.
-  - A brand new game you barely started (e.g. you only made a title screen or a mockup of the gameplay).
-  Examples of things that are not allowed:
-  - A project you've been working on for months.
-  - An update/patch for a game you already released publicly.
+15. Your work must be new and original. You cannot enter with something you were already working on before the start of the jam. The majority of work should be done during the jam. If in doubt, please ask us before proceeding.  
+    Examples of things that are **allowed:**  
+    - A brand new game using your own (or any) existing game engine.
+    - A remake of your (or someone else's) game for a different platform, but with new code and assets.
+    - A brand new game you barely started (e.g. you only made a title screen or a mockup of the gameplay).
+
+    Examples of things that are **not allowed:**  
+    - A project you've been working on for months.
+    - An update/patch for a game you already released publicly.
 
 ## JUDGING
 
