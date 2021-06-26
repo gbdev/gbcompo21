@@ -117,6 +117,6 @@ Something not clear? Open an issue or join the discussion on Discord.
 
 Special thanks to:
 
-- Hosts from all the different gbdev communities: <TODO>
+- The organizers, from all over the gbdev community: [avivace](https://github.com/avivace), [Proximity Sound](https://github.com/https://proximitysound.com), [untoxa](https://github.com/untoxa), [bbbbbr](https://github.com/bbbbbr), Sanqui, [aaaaaa123456789](https://github.com/aaaaaa123456789), [ISSOtm](https://github.com/ISSOtm)
 - [Optix](https://github.com/Hacktix), for the awesome logo
 - Judges: <TODO>
