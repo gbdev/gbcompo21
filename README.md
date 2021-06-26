@@ -3,19 +3,31 @@
 <img src="assets/square.png" width="50%">
 </p>
 
-*Create original games, demos or homebrews for the original Game Boy (Color) and compete for glory (and a lot of prizes)!*
+Create original games, demos or homebrews for the original Game Boy (Color) and compete for glory (and more than **$1000** in prizes)!
 
-### Join the **GB COMPO 2021** from July 1 to October 1 at [itch.io/jam/gbcompo21](https://itch.io/jam/gbcompo21).
+### Join the **GB COMPO 2021** from July 1 to October 1 at [itch.io/jam/gbcompo21](https://itch.io/jam/gbcompo21)
 
 ---
 
-## COMMUNITY
+## Sponsors
+
+The entire prize pool is community funded. Donate or sponsor the competition through [GitHub sponsors](https://github.com/sponsors/avivace?editing=true&frequency=one-time).
+
+<a href="https://catskullelectronics.com/collections/game-boy" target="_blank"> <img src="https://cdn.shopify.com/s/files/1/0253/2075/1182/files/logo2_360x.png" alt="Catskull electronics" height="50"> </a>
+
+### Donators
+
+- toxa
+
+## Community
 
 Come join us <a href="https://gbdev.io/chat" target="_blank">on Discord or others</a> for help getting started, and head over to <a href="https://gbdev.io" target="_blank">gbdev.io</a> for useful links & resources!
 
 We'd love to hear from participants, share your progress on Twitter using the `#gbcompo` hashtag and join the conversation the on Discord `#compo-chat` channel!
 
-## RESOURCES
+## Resources
+
+Here a curated list tools and documentaiton to get you started.
 
 - General links
    - [Pan Docs](https://gbdev.io/pandocs), Game Boy technical documentation
@@ -35,9 +47,9 @@ We'd love to hear from participants, share your progress on Twitter using the `#
    - [Dedicated Discord](https://discord.gg/knRryZWGcm)
 
 
-## PRIZE POOL
+## Prize pool
 
-The current prize pool is **$700** and will be split according to [this document](https://docs.google.com/spreadsheets/d/196vIZGLbSk1ewzRnZc7Dy_LJdPQpfJUg-udT4iyBVOg).
+The current prize pool is **$1100** and will be split according to [this document](https://docs.google.com/spreadsheets/d/196vIZGLbSk1ewzRnZc7Dy_LJdPQpfJUg-udT4iyBVOg).
 
 Entries will compete in 4 separate categories and 4 rankings will be drawn up. Based on these leaderboards, the top entries will be awarded as follows:
 
@@ -49,21 +61,16 @@ Entries will compete in 4 separate categories and 4 rankings will be drawn up. B
 - Best demo (1)
 
 The rankings are decided according to the [JUDGING](#JUDGING) criteria.
-
-The entire prize pool is community funded. You can donate any amount you wish through the following platforms:
-
-- [GitHub sponsors](https://github.com/sponsors/avivace?editing=true&frequency=one-time). 
-- [OpenCollective](https://opencollective.com/gbdev?language=fr)
  
 GitHub is the preferred way, as it will match your amount (if your account is not new), **doubling** the effect on the prize pool!
 
-### OPEN SOURCE BONUS
+### Open Source Bonus
 
 If you publish your game source code and assets on a public repository (e.g. GitHub) under [an open source license](https://choosealicense.com/) (GPL, MIT, Apache, CC0...) you get **20%** more of the prize as a bonus!
 
 *Prize tiers are still work in progress, expect changes. Money prizes are subject to fees and conversions. They may be delivered as gift cards of your choice.*
 
-## RULES
+## Rules
 
 1. Final entry "deliverable" must consist of a GB or GBC ROM file. You can also attach descriptive documents in TXT, Markdown or HTML file format (e.g. game manual).
 2. The ROM file will be tested on real hardware (usually a DMG or a GBC) and on the BGB emulator. In case of different results, the hardware test will be the trusted one.
@@ -89,7 +96,7 @@ If you publish your game source code and assets on a public repository (e.g. Git
     - A project you've been working on for months.
     - An update/patch for a game you already released publicly.
 
-## JUDGING
+## Judging
 
 Judges will evaluate games using the following criteria:
 
@@ -113,4 +120,3 @@ Special thanks to:
 - Hosts from all the different gbdev communities: <TODO>
 - [Optix](https://github.com/Hacktix), for the awesome logo
 - Judges: <TODO>
-- Prize pool donators: <TODO>
