@@ -17,8 +17,8 @@ The entire prize pool is community funded. Donate or sponsor the competition thr
 
 ### Donations from Individuals
 
-- toxa
-
+- [toxa](https://github.com/untoxa/)
+     
 <hr>
 
 ## Community
