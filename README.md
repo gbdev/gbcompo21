@@ -100,16 +100,22 @@ If you publish your game source code and assets on a public repository (e.g. Git
 
 ## Judging
 
-Judges will evaluate games using the following criteria:
+Judges will evaluate submissions using the following criteria:
 
-- **Overall**  -  What do you think of this entry as a whole? (sum of the other scores)
-- **Gameplay** - How entertaining are the gameplay mechanics? How fun is the game?
-- **Technical** - How innovative is it from a technical perspective? Does it push the hardware to the limit?
-- **Originality** - How refreshing is it from a non-technical perspective? Does it have a unique design / mechanics?
-- **Graphics**  -  How impressive are the art, animation and visual effects? (if applicable)
-- **Audio**  -  How good are the music and sound effects? (if applicable)
+1. **Gameplay** - How entertaining are the gameplay mechanics? How fun is the game?
+2. **Technical** - How innovative is it from a technical perspective? Does it push the hardware to the limit?
+3. **Originality** - How refreshing is it from a non-technical perspective? Does it have a unique design / mechanics?
+4. **Graphics**  -  How impressive are the art, animation and visual effects?
+5. **Audio**  -  How good are the music and sound effects?
 
-The leaderboard is computed by averaging the "Overall" score.
+Criteria applicability:
+
+- Games are ranked according to all the listed criteria
+- demos on 2,3,4,5
+- Music entries on 5
+- Homebrew/tools entries on 2 and 1 (with gameplay being UX)
+
+The leaderboards are computed by averaging the "Overall" score.
 
 ## FAQ
 
@@ -121,4 +127,4 @@ Special thanks to:
 
 - The organizers, from all over the gbdev community: [avivace](https://github.com/avivace), [Proximity Sound](https://github.com/https://proximitysound.com), [untoxa](https://github.com/untoxa), [bbbbbr](https://github.com/bbbbbr), Sanqui, [aaaaaa123456789](https://github.com/aaaaaa123456789), [ISSOtm](https://github.com/ISSOtm)
 - [Optix](https://github.com/Hacktix), for the awesome logo
-- Judges: <TODO>
+- Judges: ISSOtm, Sanqui, Asobi.tech, untoxa, Veund, duodrea
