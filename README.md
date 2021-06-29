@@ -3,7 +3,7 @@
 <img src="assets/square.png" width="50%">
 </p>
 
-Create original games, demos or homebrews for the original Game Boy (Color) and compete for glory (and more than **$1000** in prizes)!
+Create original games, demos, homebrews tools and music for the original Game Boy (Color) and compete for glory (and more than **$1000** in prizes)!
 
 ### Join the **GB COMPO 2021** from July 1 to October 1 at [itch.io/jam/gbcompo21](https://itch.io/jam/gbcompo21)
 
@@ -13,7 +13,7 @@ Create original games, demos or homebrews for the original Game Boy (Color) and 
 
 The entire prize pool is community funded. Donate or sponsor the competition through [GitHub sponsors](https://github.com/sponsors/avivace?editing=true&frequency=one-time).
 
-<a href="https://catskullelectronics.com/collections/game-boy" target="_blank"> <img src="https://cdn.shopify.com/s/files/1/0253/2075/1182/files/logo2_360x.png" alt="Catskull electronics" height="50"></a> <img src="assets/1px_transp.png" alt="space" width="20"> <a href="https://megacatstudios.com/" target="_blank"> <img src="assets/sponsor_megacat_MCS_NoBG_80h.png" alt="Mega Cat Studios" height="50"></a>
+<a href="https://catskullelectronics.com/collections/game-boy" target="_blank"> <img src="assets/sponsor_catskull_50h.png" alt="Catskull electronics" height="50"></a> <img src="assets/1px_transp.png" alt="space" width="20"> <a href="https://megacatstudios.com/" target="_blank"> <img src="assets/sponsor_megacat_50h.png" alt="Mega Cat Studios" height="50"></a>
 
 ### Donations from Individuals
 
@@ -58,7 +58,7 @@ Entries will compete in 4 separate categories and 4 rankings will be drawn up. B
 - Best games (80% of the prize pool)
   - The best 5 games will get a prize.
   - The best 3 OSS games will get an additional prize (can overlap)
-- Best homebrew/tool (1)
+- Best homebrew/tool (1) (running on a GB/GBC)
 - Best music cartridge (1)
 - Best demo (1)
 
@@ -85,10 +85,11 @@ If you publish your game source code and assets on a public repository (e.g. Git
 9. You can submit more than one entry. They will be rated separately, but each person or team may only accept prizes on behalf of a single entry (e.g., you can't win both the 1st and 2nd place prize).
 10. Judges can submit entries, but they are not eligible for prizes.
 11. ROM size must be compliant to [known MBCs](https://gbdev.io/pandocs/MBCs.html). MBC5 or MBC3 are recommended for compatibility reasons. No MBC is allowed too (32k).
-12. As long as you produce a GB or GBC ROM file that runs on GB/GBC, any tool to develop the entry is allowed. This includes RGBDS (ASM), GBDK (C), ZGB (C), GB Studio, ...
-13. Source code is optional, but very much appreciated. Entries submitted with source code (public repositories on GitHub/GitLab/... are accepted) and with an open source license (GPL, MIT, Apache, CC0 for code, any CC for assets) are eligible for **additional** prizes. Make sure to fill the "Open Source repository" field with a valid and public repository when submitting on itch.io.
-14. The entry must be submitted on the itch.io jam page.
-15. Your work must be new and original. You cannot enter with something you were already working on before the start of the jam. The majority of work should be done during the jam. If in doubt, please ask us before proceeding.  
+12. Entries cannot rely on extra hardware or add-on devices, they must be playable without a specific setup.
+13. As long as you produce a GB or GBC ROM file that runs on GB/GBC, any tool to develop the entry is allowed. This includes RGBDS (ASM), GBDK (C), ZGB (C), GB Studio, ...
+14. Source code is optional, but very much appreciated. Entries submitted with source code (public repositories on GitHub/GitLab/... are accepted) and with an open source license (GPL, MIT, Apache, CC0 for code, any CC for assets) are eligible for **additional** prizes. Make sure to fill the "Open Source repository" field with a valid and public repository when submitting on itch.io. See [this issue](https://github.com/gbdev/gbcompo21/issues/3) for further details.
+15. The entry must be submitted on the itch.io jam page.
+16. Your work must be new and original. You cannot enter with something you were already working on before the start of the jam. The majority of work should be done during the jam. If in doubt, please ask us before proceeding.  
     Examples of things that are **allowed:**  
     - A brand new game using your own (or any) existing game engine.
     - A remake of your (or someone else's) game for a different platform, but with new code and assets.
