@@ -13,7 +13,10 @@ Create original games, demos, homebrews tools and music for the original Game Bo
 
 The entire prize pool is community funded. Donate or sponsor the competition through [GitHub sponsors](https://github.com/sponsors/avivace?editing=true&frequency=one-time).
 
+<a href="https://incube8games.com/pages/developers" target="_blank"> <img src="assets/incube8_logo_white_bg.png" alt="Incube 8 Games" height="100"></a>
+
 <a href="https://catskullelectronics.com/collections/game-boy" target="_blank"> <img src="assets/sponsor_catskull_50h.png" alt="Catskull electronics" height="50"></a> <img src="assets/1px_transp.png" alt="space" width="20"> <a href="https://megacatstudios.com/" target="_blank"> <img src="assets/sponsor_megacat_50h.png" alt="Mega Cat Studios" height="50"></a>
+
 
 ### Donations from Individuals
 
