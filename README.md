@@ -20,7 +20,13 @@ The entire prize pool is community funded. Donate or sponsor the competition thr
 
 ### Donations from Individuals
 
-- [toxa](https://github.com/untoxa/)
+[Toxa](https://github.com/untoxa), 
+[Carles Castillo](https://github.com/Nicolastriplec), 
+[Dave VanEe](https://github.com/tbsp), 
+[Chris Maltby](https://github.com/chrismaltby), 
+[William Bettridge-Radford](https://github.com/willbr), 
+[Josh Frisby](https://github.com/oshf)
+
      
 <hr>
 
