@@ -15,7 +15,10 @@ The entire prize pool is community funded. Donate or sponsor the competition thr
 
 <a href="https://incube8games.com/pages/developers" target="_blank"> <img src="assets/incube8_logo_white_bg.png" alt="Incube 8 Games" height="100"></a>
 
-<a href="https://catskullelectronics.com/collections/game-boy" target="_blank"> <img src="assets/sponsor_catskull_50h.png" alt="Catskull electronics" height="50"></a> <img src="assets/1px_transp.png" alt="space" width="20"> <a href="https://megacatstudios.com/" target="_blank"> <img src="assets/sponsor_megacat_50h.png" alt="Mega Cat Studios" height="50"></a>
+<a href="https://greenboygames.com/" target="_blank"> <img src="assets/sponsor_greenboygames_crop_52h.png" alt="Greenboy Games" height="52"></a>
+<a href="https://catskullelectronics.com/collections/game-boy" target="_blank"><img src="assets/sponsor_catskull_50h.png" alt="Catskull electronics" height="50">
+</a>
+<a href="https://megacatstudios.com/" target="_blank"> <img src="assets/sponsor_megacat_50h.png" alt="Mega Cat Studios" height="50"></a>
 
 
 ### Donations from Individuals
