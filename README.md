@@ -27,6 +27,9 @@ The entire prize pool is community funded. Donate or sponsor the competition thr
 [William Bettridge-Radford](https://github.com/willbr), 
 [Josh Frisby](https://github.com/oshf)
 
+### Partners
+
+<a href="https://gbstudiocentral.com/" target="_blank"> <img src="https://gbstudiocentral.com/wp-content/uploads/2020/11/cropped-LogoV1.png" alt="GB Studio Central" height="50"></a><a href="https://megacatstudios.com/" target="_blank"> <img src="assets/gbstudio_logo.png" alt="Mega Cat Studios" height="50"></a>
      
 <hr>
 
