@@ -3,7 +3,7 @@
 <img src="assets/square.png" width="50%">
 </p>
 
-Create original games, demos, homebrews tools and music for the original Game Boy (Color) and compete for glory (and more than **$1000** in prizes)!
+Create original games, demos, homebrews tools and music for the original Game Boy (Color) and compete for glory (and up to **$3000** in prizes)!
 
 ### Join the **GB COMPO 2021** from July 1 to October 1 at [itch.io/jam/gbcompo21](https://itch.io/jam/gbcompo21)
 
@@ -29,7 +29,7 @@ The entire prize pool is community funded. Donate or sponsor the competition thr
 
 ### Partners
 
-<a href="https://gbstudiocentral.com/" target="_blank"> <img src="https://gbstudiocentral.com/wp-content/uploads/2020/11/cropped-LogoV1.png" alt="GB Studio Central" height="50"></a><a href="https://megacatstudios.com/" target="_blank"> <img src="assets/gbstudio_logo.png" alt="Mega Cat Studios" height="50"></a>
+<a href="https://gbstudiocentral.com/" target="_blank"> <img src="https://gbstudiocentral.com/wp-content/uploads/2020/11/cropped-LogoV1.png" alt="GB Studio Central" height="50"></a><a href="https://www.gbstudio.dev/" target="_blank"> <img src="assets/gbstudio_logo.png" alt="GB Studio" height="50"></a>
      
 <hr>
 
@@ -63,7 +63,7 @@ Here a curated list tools and documentaiton to get you started.
 
 ## Prize pool
 
-The current prize pool is **$1100** and will be split according to [this document](https://docs.google.com/spreadsheets/d/196vIZGLbSk1ewzRnZc7Dy_LJdPQpfJUg-udT4iyBVOg).
+The current prize pool is **$3000** and will be split according to [this document](https://docs.google.com/spreadsheets/d/196vIZGLbSk1ewzRnZc7Dy_LJdPQpfJUg-udT4iyBVOg).
 
 Entries will compete in 4 separate categories and 4 rankings will be drawn up. Based on these leaderboards, the top entries will be awarded as follows:
 
