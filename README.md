@@ -15,7 +15,7 @@ The entire prize pool is community funded. Donate or sponsor the competition thr
 
 <a href="https://incube8games.com/pages/developers" target="_blank"> <img src="assets/incube8_logo_white_bg.png" alt="Incube 8 Games" height="100"></a>
 
-<a href="https://greenboygames.com/" target="_blank"> <img src="assets/sponsor_greenboygames_crop_52h.png" alt="Greenboy Games" height="52"></a>
+<a href="https://greenboygames.com/" target="_blank"> <img src="assets/sponsor_greenboygames_50h.png" alt="Greenboy Games" height="50"></a>
 <a href="https://catskullelectronics.com/collections/game-boy" target="_blank"><img src="assets/sponsor_catskull_50h.png" alt="Catskull electronics" height="50">
 </a>
 <a href="https://megacatstudios.com/" target="_blank"> <img src="assets/sponsor_megacat_50h.png" alt="Mega Cat Studios" height="50"></a>
@@ -115,7 +115,7 @@ If you publish your game source code and assets on a public repository (e.g. Git
     - A brand new game using your own (or any) existing game engine.
     - A remake of your (or someone else's) game for a different platform, but with new code and assets.
     - A brand new game you barely started (e.g. you only made a title screen or a mockup of the gameplay).
-    - Usage templates, tutorial code as starting point (when they're license allow to do so, e.g. [gb-boilerplate](https://github.com/ISSOtm/gb-boilerplate))
+    - Using templates, tutorial code as starting point (when they're license allow to do so, e.g. [gb-boilerplate](https://github.com/ISSOtm/gb-boilerplate))
 
     Examples of things that are **not allowed:**  
     - A project you've been working on for months.
