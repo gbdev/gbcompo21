@@ -120,6 +120,7 @@ If you publish your game source code and assets on a public repository (e.g. Git
     Examples of things that are **not allowed:**  
     - A project you've been working on for months.
     - An update/patch for a game you already released publicly.
+18. The submission must be available for free for the public (and not only the judges). Submission will be published and kept online for free on the competition website, while you are free to keep working on it (and eventually charge for it/make commercial usage).
 
 ## Judging
 
