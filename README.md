@@ -99,7 +99,12 @@ If you publish your game source code and assets on a public repository (e.g. Git
 8. NSFW content is not allowed. Please keep it safe for work and avoid anything overly edgy or distasteful. 
 9. You can submit more than one entry. They will be rated separately, but each person or team may only accept prizes on behalf of a single entry (e.g., you can't win both the 1st and 2nd place prize).
 10. Judges can submit entries, but they are not eligible for prizes.
-11. ROM size must be compliant to [known MBCs](https://gbdev.io/pandocs/MBCs.html). MBC5 or MBC3 are recommended for compatibility reasons. No MBC is allowed too (32k).
+11. Only some official MBC chips (MBC1, MBC2, MBC3 and MBC5, as well as no MBC at all) are allowed. The only exceptions are:
+    1. While Nintendo only manufactured very specific MBC+ROM combinations, we will allow any power-of-two ROM size between 32 KiB and the maximum for the chosen chip. (This is simply a convenience feature, as any ROM image can be extended to fit a larger ROM chip by appending copies of itself.)
+    2. The ROM+RAM combination (i.e., without an MBC, up to 32 KiB ROM and 8 KiB SRAM), with or without battery, will be accepted for compatibility, as many people have simple flash carts that do have SRAM but don't have an MBC. (This can be trivially emulated by any MBC1, MBC3 or MBC5 configuration.)
+    3. The variants MBC30 and MBC1M are accepted, as they have been used in licensed games.
+    4. Some official MBCs added extra components to the cart: MBC3/MBC30 carts could have an RTC, and MBC5 carts could have rumble. These combinations, and only these combinations, will be accepted. In particular, this means it's impossible to have RTC and rumble in the same cart.
+  
 12. Entries cannot rely on extra hardware or add-on devices, they must be playable without a specific setup.
 13. As long as you produce a GB or GBC ROM file that runs on GB/GBC, any tool to develop the entry is allowed. This includes RGBDS (ASM), GBDK (C), ZGB (C), GB Studio, ...
 14. Source code is optional, but very much appreciated. Entries submitted with source code (public repositories on GitHub/GitLab/... are accepted) and with an open source license (See rule 15) are eligible for **additional** prizes. Make sure to fill the "Open Source repository" field with a valid and public repository when submitting on itch.io. See [this issue](https://github.com/gbdev/gbcompo21/issues/3) for further details.
