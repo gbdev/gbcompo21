@@ -109,6 +109,7 @@ If you publish your game source code and assets on a public repository (e.g. Git
     - A brand new game using your own (or any) existing game engine.
     - A remake of your (or someone else's) game for a different platform, but with new code and assets.
     - A brand new game you barely started (e.g. you only made a title screen or a mockup of the gameplay).
+    - Usage templates, tutorial code as starting point (when they're license allow to do so, e.g. [gb-boilerplate](https://github.com/ISSOtm/gb-boilerplate))
 
     Examples of things that are **not allowed:**  
     - A project you've been working on for months.
