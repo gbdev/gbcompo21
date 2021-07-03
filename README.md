@@ -19,7 +19,7 @@ The entire prize pool is community funded. Donate or sponsor the competition thr
 <a href="https://catskullelectronics.com/collections/game-boy" target="_blank"><img src="assets/sponsor_catskull_50h.png" alt="Catskull electronics" height="50">
 </a>
 <a href="https://megacatstudios.com/" target="_blank"> <img src="assets/sponsor_megacat_50h.png" alt="Mega Cat Studios" height="50"></a>
-<a href="http://www.bitmapsoft.co.uk/" target="_blank"> <img src="assets/bitmap_soft.png.png" alt="Bitmap Soft" height="50"></a>
+<a href="http://www.bitmapsoft.co.uk/" target="_blank"> <img src="assets/bitmap_soft.png" alt="Bitmap Soft" height="50"></a>
 
 
 ### Donations from Individuals
