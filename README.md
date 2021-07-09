@@ -33,7 +33,7 @@ The entire prize pool is community funded. Donate or sponsor the competition thr
 
 ### Partners
 
-<a href="https://gbstudiocentral.com/" target="_blank"> <img src="https://gbstudiocentral.com/wp-content/uploads/2020/11/cropped-LogoV1.png" alt="GB Studio Central" height="50"></a><a href="https://www.gbstudio.dev/" target="_blank"> <img src="assets/gbstudio_logo.png" alt="GB Studio" height="50"></a>
+<a href="https://gbstudiocentral.com/" target="_blank"> <img src="https://gbstudiocentral.com/wp-content/uploads/2020/11/cropped-LogoV1.png" alt="GB Studio Central" height="50"></a><a href="https://www.gbstudio.dev/" target="_blank"> <img src="assets/gbstudio_logo.png" alt="GB Studio" height="50"></a> <a href="https://www.youtube.com/channel/UCG-geFUwAAnYCZtOkM4PtmA" target="_blank"> <img src="assets/RBIconSmallSquare.jpg" alt="RetroBreak" height="50"></a>
      
 <hr>
 
