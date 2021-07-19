@@ -32,7 +32,8 @@ The entire prize pool is community funded. Donate or sponsor the competition thr
 [Dave VanEe](https://github.com/tbsp), 
 [Chris Maltby](https://github.com/chrismaltby), 
 [William Bettridge-Radford](https://github.com/willbr), 
-[Josh Frisby](https://github.com/oshf)
+[Josh Frisby](https://github.com/oshf),
+[Sanqui](https://github.com/Sanqui)
 
 ### Partners
 
