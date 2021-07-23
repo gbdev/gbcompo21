@@ -121,7 +121,9 @@ If you publish your game source code and assets on a public repository (e.g. Git
     - A remake of your (or someone else's) game for a different platform, but with new code and assets.
     - A brand new game you barely started (e.g. you only made a title screen or a mockup of the gameplay).
     - Using templates, tutorial code as starting point (when they're license allow to do so, e.g. [gb-boilerplate](https://github.com/ISSOtm/gb-boilerplate))
-
+    - Asset packs for art and music are ok if the licensing permits. Be sure to make note of what is being reused and under what terms. Use of pre-made assets (vs original ones) may be factored in when judges assess points for relevant criteria (e.g. graphics, audio).
+    
+    
     Examples of things that are **not allowed:**  
     - A project you've been working on for months.
     - An update/patch for a game you already released publicly.
