@@ -3,7 +3,7 @@
 <img src="assets/square.png" width="50%">
 </p>
 
-Create original games, demos, homebrews tools and music for the original Game Boy (Color) and compete for glory (and up to **$3000** in prizes)!
+Create original games, demos, homebrews tools and music for the original Game Boy (Color) and compete for glory (and up to ![$3000+](https://shields.io/endpoint?url=https%3A%2F%2Fcellshield.info%2Fgs%3FspreadSheetId%3D196vIZGLbSk1ewzRnZc7Dy_LJdPQpfJUg-udT4iyBVOg%26cellRange%3DI11) in prizes)!
 
 ### Join the **GB COMPO 2021** from July 1 to October 1 at [itch.io/jam/gbcompo21](https://itch.io/jam/gbcompo21)
 
