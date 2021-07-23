@@ -71,7 +71,7 @@ Here a curated list tools and documentaiton to get you started.
 
 ## Prize pool
 
-The current prize pool is **$3000** and will be split according to [this document](https://docs.google.com/spreadsheets/d/196vIZGLbSk1ewzRnZc7Dy_LJdPQpfJUg-udT4iyBVOg).
+The current prize pool is ![$3000+](https://shields.io/endpoint?url=https%3A%2F%2Fcellshield.info%2Fgs%3FspreadSheetId%3D196vIZGLbSk1ewzRnZc7Dy_LJdPQpfJUg-udT4iyBVOg%26cellRange%3DI11) and will be split according to [this document](https://docs.google.com/spreadsheets/d/196vIZGLbSk1ewzRnZc7Dy_LJdPQpfJUg-udT4iyBVOg).
 
 Entries will compete in 4 separate categories and 4 rankings will be drawn up. Based on these leaderboards, the top entries will be awarded as follows:
 
