@@ -38,7 +38,10 @@ The entire prize pool is community funded. Donate or sponsor the competition thr
 ### Partners
 
 <a href="https://gbstudiocentral.com/" target="_blank"> <img src="https://gbstudiocentral.com/wp-content/uploads/2020/11/cropped-LogoV1.png" alt="GB Studio Central" height="50"></a><a href="https://www.gbstudio.dev/" target="_blank"> <img src="assets/gbstudio_logo.png" alt="GB Studio" height="50"></a> <a href="https://www.youtube.com/channel/UCG-geFUwAAnYCZtOkM4PtmA" target="_blank"> <img src="assets/RBIconSmallSquare.jpg" alt="RetroBreak" height="50"></a>
-     
+
+### Donations to the Prize Pool:
+- Donations to the prize pool are now __closed__, no more are being accepted.
+
 <hr>
 
 ## Community
@@ -84,8 +87,6 @@ Entries will compete in 4 separate categories and 4 rankings will be drawn up. B
 
 The rankings are decided according to the [JUDGING](#JUDGING) criteria.
  
-GitHub is the preferred way, as it will match your amount (if your account is not new), **doubling** the effect on the prize pool!
-
 ### Open Source Bonus
 
 If you publish your game source code and assets on a public repository (e.g. GitHub) under [an open source license](https://choosealicense.com/) (GPL, MIT, Apache, CC0...) you get **20%** more of the prize as a bonus!
