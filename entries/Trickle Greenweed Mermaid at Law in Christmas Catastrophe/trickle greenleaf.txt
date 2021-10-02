@@ -1,0 +1,255 @@
+Trickle Greenweed, Mermaid at Law in... CHRISTMAS CATASTROPHE
+
+My name is Trickle Greenweed, and I have just graduated law from Atlantis U, meaning I'm finally a fully-fledged Mermaid attourney, just in time for Christmas!
+
+Trickle finds a mer-elf in her newly opened offices, asking for her help as Seanta has been arrested! The elf is called Sparkle-toes, Sparky for short, and is an undersea electronics expert (do you know how hard that is?) with agoraphobia, so he came to Trickle's house as hers was the smallest law office he could find.
+
+Seanta has been charged with attempted insurance fraud! He is accused of destroying the christmas present warehouse in order to claim on his insurance, both destroying undersea christmas and netting him a large sum of money so that he can retire a rich jolly old mer-elf!
+
+Trickle goes to talk to Seanta in the brig. He insists he is innocent, but doesn't deny that Christmas has been getting harder and harder recently, as belief in him has waned. The loss of these presents is likely to be the final death knell for undersea Christmas. Trickle decides to represent Seanta in court, in order to save both Seanta and undersea Christmas itself!
+
+Principle characters:
+
+Seanta - he's just mer-santa
+
+Sparky Blastcap - nerdy elf with anxiety. Has been secretly working on an invention that can turn raw materials into toys in seconds in the hope that it will help Seanta.
+
+Lox Bristlebrew - Grumpy old security expert who was guarding the warehouse. Says Seanta came to see the warehouse just before it blew up. Trickle needs to prove it could have been someone else who blew up the warehouse.
+
+Rizzle Roughrider - A super happy elf girl who set out on her own after a falling out with Seanta over putting herself before Christmas. She has her own TV show and range of toys for girls. Claims she was visiting her family in the North Sea when it happened and saw Seanta blow up the warehouse. Is the actual culprit, intending to replace Christmas with her own creation, Rizzle Rave, which is just Christmas but for exclusively Rizzle products.
+
+Nettle Bittersting - The much more experienced prosecutor. She has it in for Trickle for some reason.
+
+Judge Seacow - he's a manatee, and pretty dumb.
+
+
+Locations:
+Trickle's office
+Jail
+Courtroom Centre
+Courtroom Witness stand
+Courtroom Left
+Courtroom Right
+Courtroom friend spot
+Warehouse exterior
+Destroyed warehouse exterior
+
+Items:
+Trickle's attourney's shell
+Explosives - hard to wire, will require Sparky's testimony. Seanta has no technical skills.
+Rizzle's toys - poor quality mass-produced garbage.
+
+Expressions needed for each character except Trickle:
+Normal
+happy
+upset
+pensive
+coy
+laughing
+angry
+sad
+shocked
+stressed
+
+For just Sparky:
+Sideways normal
+Sideways pensive
+Sideways angry
+Sideways depressed
+
+For just lox and rizzle:
+Broken
+
+For just Trickle and Nettle:
+court normal
+court arms crossed
+court presenting point
+court presenting evidence
+court hold it
+court objection
+court shocked
+court pleased with self
+
+For just judge:
+Normal judge
+nodding judge
+shocked judge
+
+
+Basic step by step breakdown
+
+See art of warehouse. See art of warehouse exploding. Silhouette of mysterious figure. Dialogue along the lines of "hahaha... now christmas is ruined... forever!"
+
+Skip to Trickle's offices. 
+
+Trickle's introduction and brief backstory.
+Intro to Trickle's bare-ass law offices. Tutorial on looking around a location. Find Trickle's lawyer's shell. It is in the only box in the room. Commentary on how barren it is in here.
+Sparky is here! He is surprised such a spartan place exists. Trickle is confused and surprised to see someone in her office.
+Time to practise questioning! Questioning Sparky tutorial.
+
+Questions:
+	who are you?
+	what are you?
+	why are you dressed like that?
+then finally
+	why are you in my office?
+
+At which point Sparky suddenly remembers why he's here!
+Seanta needs help! He's on trial for murder!
+
+Questions:
+	Seanta? THE Seanta?
+		Who was murdered?
+
+Seanta in on trial for killing CHRISTMAS ITSELF! The warehouse that held all the toys was blown up, and all the toys with it!
+
+Questions:
+	The warehouse
+		Explosion?
+			New toys?
+
+The guard on duty saw Seanta enter the warehouse, then a few minutes later it exploded. There's no way the elves can possibly make enough toys for Christmas now, as it's less than two weeks away! Belief in Christmas was already fading (due to video games and tv lol) but this will destroy what little belief people had left!
+
+Questions:
+	Why me?
+		Why you?
+
+Sparky reveals his crippling agoraphobia. Sparky then reveals that he is the only mer-elf left who isn't completely convinced of Seanta's guilt. Something doesn't add up, but he can't quite figure out what it is. Regardless, Seanta is going to be put on trial today and no-one is willing to defend him. Plz halp
+
+Trickle agrees. Sparky explains that he can't let her know Seanta's workshop's secret location and forcefully puts a bag over Trickle's head. 
+
+Sparky removes the bag and they're at Seanta's workshop. When you arrive there is some commotion. See all the elves clustered around a small stage. There is some kind of presentation going on. Introduction of Rizzle. Sparky is very excited to see Rizzle is back. Rizzle is telling the elves that Christmas can still be saved! Luckily she was here visiting her family when she heard the terrible news and was able to bring replacement toys! If everyone pitches in and gets wrapping right away, every child in the world can get a Rizzle brand toy to make them happy on Christmas morning, despite poor, defeated old Seanta's best efforts. Rizzle throws out some sample toys. Trickle catches one. It is a rather poorly constructed toy of Rizzle herself. Sparky is starstruck.
+
+Questions:
+	Who is that?
+
+Sparky explains that Rizzle is a mer-elf who left to make it big in Atlantis. She writes music, has her own tv show, does her own stunts and even has her own line of toys! Sparky is very pleased that someone has a plan to save Christmas, saying he wishes it had been him, but his prototype gift-maker 5000 was stolen.
+
+	gift-maker 5000?
+
+Sparky looks surprised and says he can't talk about it, it's classified.
+
+Time to look around christmas town. Sparky can give brief rundowns of what is in the area. When the warehouse is looked at, adds a new location you can visit.
+
+Go to the warehouse and encounter Lox. Lox won't let you near the warehouse without proper clearance and authorisation.
+
+Questions:
+	What happened at the warehouse?
+	Clearance?
+		Happen again?
+
+When asked about what happened, Lox will say that, as everyone knows, Seanta blew the whole thing up. Ruminates that the pressure of Christmas must have gotten to him and he destroyed the warehouse for the insurance money. Trickle asks who would possibly insure Seanta's workshop and Lox concedes that probably isn't the case.
+
+When asked about clearance and authorisation, Lox says he won't let anyone near the warehouse without proper clearance, not again. When asked the follow up he clarifies that on the night the warehouse exploded he didn't check Seanta's documentation. If he had, maybe he would have seen something, noticed something, instead... He gets angry and reiterates no-one gets near without proper authorisation.
+
+Question:
+	where to get proper authorisation?
+
+Lox explains only the person in charge of the whole operation gives out authorisation. Trickle asks who that is. Lox thinks for a second and says he guesses it would be Seanta. Trickle thinks this is odd, but Lox says he doesn't make the rules, and there's not really any precedent for this situation either!
+
+Sparky suggests you go see Seanta in the brig. You go to the brig, adding another location to your map.
+
+You go see Seanta. Seanta is not a very jolly old elf. He smiles upon seeing Sparky, and says hello to Trickle (who is surprised to see he knows her name, but as Sparky reminds her, he knows everyone's name) but then quickly deflates again. Trickle explains why she is there. Seanta is grateful but doesn't know what can be done, as now, finally, even the elves have stopped believing in him. Sparky reassures Seanta that he believes in him, and Trickle reassures him that as his lawyer, she believes in him too. This gives Seanta a little hope.
+
+Questions:
+	Failing belief
+		The elves
+	The night in question
+		Break-ins
+	*What was stolen?
+
+When asked about belief, Santa will talk about how belief in him has been waning for some time and that it has been causing him to lose faith in the whole process of Christmas. Talks about how the children of the world are getting more and more avaricious, and it's even affecting the mer-elves themselves! In the follow up question he speaks about Rizzle specifically, and her self-centered attitude.
+
+When asked the second question Seanta will explain that on the night in question he did indeed go to the warehouse. He said hello to Lox and checked the warehouse was secure, as he had every night since the break-in. Then he left. The follow up question he talks about how people of the world are getting so obsessed with possessions that they are even trying to break into Seanta's workshop now! They had a break in a few weeks back and ever since he has been checking the warehouse every night to make sure it is secure.
+
+Once all the questions have been asked the third option of what was stolen appears. Seanta will explain that the research room was broken into and Sparky's prototype gift-maker 5000 was stolen. Sparky is shocked and reminds Seanta it's classified information. Seanta says it doesn't matter now and explains the gift-maker was something he had Sparky working on to help make the toys faster, as it was getting more and more stressful for the elves to keep up with demand, leaving them tired and overworked. It would do the base work for the toys for the elves, allowing them to concentrate on the fine detail, the artistry, which no machine could ever hope to replace.
+
+Questions:
+	Why Sparky?
+	Who could have stolen it?
+
+Seanta says that Sparky is his best machine elf, a wonderful inventor. He attributes this to his agoraphobia keeping him inside and having to amuse himself whilst the other elves played in the snow. Seanta muses that he himself has quite clumsy fingers and finds electronics and machinery very difficult, so he is pleased to have a capable elf like Sparky to help him out. Sparky is very moved by this endorsement.
+
+When asked who could have stolen the device, Seanta has no answer. He is worried by the idea that someone from the outside world has found his workshop, which has always remained hidden until now. Sparky reminds Trickle about the bag he made her wear.
+
+Once both questions have been asked, Trickle will remark they really need to see the crime scene. Sparky will remind her about Lox's demand for authorisation. Seanta will cheerfully give her an authorisation card and Trickle and Sparky will got to see Lox again.
+
+When Trickle and Sparky arrive at the destroyed warehouse, Lox is asleep, but they wake him up.
+
+Questions:
+	Sleeping on the job?
+
+Lox will comment how he only nodded off for a moment and is it so surprising considering how hard the elves are having to work these days. He'll say he still needs to see their authorisation.
+
+Present:
+	authorisation
+
+Lox agrees to let them past. When Trickle expresses surprise that Lox is letting them past on the authorisation of the man who he thinks blew up the warehouse in the first place, he reiterates that he doesn't make the rules.
+
+Trickle is now able to look around the warehouse. Not much to see, some ruined presents, a destroyed roof, etc. Find the remains of what seems to be a toy clock. Sparky comments that it is the only recognisable piece of a toy left, and decides to keep it. Added to the inventory.
+
+Nettle appears, introduces herself as the prosecutor for Seanta's case. Sparky asks how she even found out about the case. Nettle explains that Rizzle hired her, at quite an exhorbitant fee. Nettle muses that sending Seanta away will look pretty good on her CV. Trickle asks how she can possibly want to put Seanta in jail. Nettle angrily says she won't be lectured about morals by Trickle and storms off. Sparky asks if the two know each other, but Trickle says she doesn't think so. Sparky says there is nothing really left except to prepare for the trial. Trickle agrees.
+
+TRIAL
+
+The courtroom is shown. The judge is a manatee called judge seacow. He asks if the defense and prosecution are ready. Both Trickle and Nettle are shown to be stunned by him being a manatee, but then recover and agree they are ready. Judge describes the case, then hands over to Nettle, who calls her first witness, Lox.
+
+LOX testimony 1
+
+Nettle talks with Lox about the night in question, specifically who he saw going to the warehouse.
+
+Lox says it was pretty late and quite dark, but he saw Seanta approach he didn't bother checking his authorisation like he should have. Then the warehouse exploded.
+
+When pressed, he will explain that he didn't have a watch, Seanta always checked the warehouse at about the same time each night, that if he had checked Seanta's authorisation maybe he would have seen the bomb or something, then finally when pressed on the last point, Trickle will feel some information is missing
+	Is something missing here?
+		Yes
+		No
+
+If no then back to questions, if yes then game will ask what information is missing. Have to pick Seanta from the character inventory.
+
+Trickle asks where Seanta was when the warehouse exploded, as Lox didn't mention seeing him come back. Judge asks Lox to testify about this.
+
+LOX testimony 2
+
+Lox says that Seanta went past him down towards the warehouse. Says he didn't see Seanta come back. Says Seanta must have sneaked past him during the confusion after the explosion.
+
+When pressed on the first sentence, Lox will reveal there is only one route down to the warehouse. The second sentence will reveal he is the only guard. When pressed on the third sentence, Trickle will be asked if this is possible. If she has not pressed on the first two sentences, she will be forced to concede it is possible, unless she has already pressed on the first two, in which case she can say it isn't
+	Is this answer plausible?
+		Yes
+		*No!
+
+Trickle will point out that the path down to the warehouse is narrow, and the only way to or from the warehouse area! As Seanta was not at the warehouse when it exploded, Seanta must have come back along that same route. Nettle argues that is impossible, as Lox would have seen him. The judge wants to know how it is possible Lox didn't see him.
+	Why didn't Lox see Seanta?
+		Seanta was invisible
+		Lox was asleep
+		Lox wasn't there
+
+The correct answer is Lox was asleep, the other two are easily disproven. Trickle points out that she caught Lox sleeping earlier. The elves have been overworked and are exhausted, so Lox falling asleep isn't surprising. Lox admits he may have nodded off, but asks why it matters how Seanta got past him? Judge asks if it matters
+	Does it matter?
+		Yes
+		No
+
+Of course it matters! 
+	If Lox fell asleep then:
+		Someone else could have gone to the warehouse!
+		He would have lost track of the time
+
+The first answer is correct and makes everyone shocked. Trickle presses Lox to admit that because he fell asleep, he can't be sure that only Seanta went to the warehouse. He finally breaks and admits it, upset that he failed in his duty.
+
+At this point Rizzle steps in and introduces herself to the court. She says she was going to stay silent out of respect for what Seanta used to stand for, but seeing Trickle trying to let Seanta get away scot free, she felt she had to step in. She was in the area that night and saw Seanta coming back, and no-one else went there, she is sure of it!
+
+Judge comments that this is very important information and asks that Rizzle testify, which she agrees to do.
+
+RIZZLE testimony 1
+
+Rizzle states that she had come back to the North Pole to visit her family. In the evening she went for a walk and found poor Lox on guard duty. She brought him some nice hot cocoa and he fell asleep, so she stayed to take over guard duty. Seanta came past, so she hid, but no-one else came past until the warehouse exploded.
+
+Nettle and Judge assert that this testimony is pretty damning, but Trickle wants to cross-examine.
+
+When pressed on the first sentence, Rizzle says she doesn't live at the North Pole any more, as she has a successful tv career in Atlantis.
+
+When pressed on the second sentence she comments on how she feels Seanta mistreats the elves, forcing them to work so hard, and that she intends to take over and things will be much better for the elves from now on, as the world learns to celebrate Rizzle Razzle instead of Christmas.
+
+When pressed on the third sentence she reveals that Lox fell asleep very quickly after drinking the cocoa, and says he must have been very tired. Trickle asks if she wasn't sleepy herself, and Rizzle says she isn't overworked like the other elves, so she was wide awake.
+
+***What do we need to do to advance this bit?***
