@@ -159,6 +159,6 @@ Something not clear? Open an issue or join the discussion on Discord.
 
 Special thanks to:
 
-- The organizers, from all over the gbdev community: [avivace](https://github.com/avivace), [Proximity Sound](https://github.com/https://proximitysound.com), [untoxa](https://github.com/untoxa), [bbbbbr](https://github.com/bbbbbr), [Sanqui](https://github.com/Sanqui), [aaaaaa123456789](https://github.com/aaaaaa123456789), [ISSOtm](https://github.com/ISSOtm)
+- The organizers, from all over the gbdev community: [avivace](https://github.com/avivace), [Proximity Sound](https://proximitysound.com), [untoxa](https://github.com/untoxa), [bbbbbr](https://github.com/bbbbbr), [Sanqui](https://github.com/Sanqui), [aaaaaa123456789](https://github.com/aaaaaa123456789), [ISSOtm](https://github.com/ISSOtm)
 - [Optix](https://github.com/Hacktix), for the awesome logo and the other graphical assets
 - Judges: ISSOtm, avivace, Sanqui, Asobi.tech, untoxa, Veund, duodreamer
