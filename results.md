@@ -8,7 +8,7 @@ Games that got nominated by more than half of the judges made up this shortlist:
 
 (in no particular order)
 
-- <corrib75>
+- \<corrib75\>
 - Core Machina
 - Dango Dash
 - Dawn Will Come
