@@ -17,13 +17,13 @@ Games that got nominated by more than half of the judges made up this shortlist:
 - GB Corp.
 - GBCspelunky
 - Glory Hunters
-- MARLA and the Elemental Rings
+- Marla and the Elemental Rings
 - Porklike GB
 - Rebound
 - Renegade Rush
 - Shock Lobster
 - Sushi Nights
-- Unhearthed
+- Unearthed
 - Rhythm Land
   
 ## Phase 2
