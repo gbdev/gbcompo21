@@ -9,6 +9,10 @@ Create original games, demos, homebrews tools and music for the original Game Bo
 
 ---
 
+## Results
+
+The results will be announced [here](results.md)
+
 ## Sponsors
 
 The entire prize pool is community funded. Donate or sponsor the competition through [GitHub sponsors](https://github.com/sponsors/avivace?editing=true&frequency=one-time).
