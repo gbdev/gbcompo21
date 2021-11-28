@@ -87,7 +87,7 @@ Entries will compete in 4 separate categories and 4 rankings will be drawn up. B
   - The best 3 OSS games will get an additional prize (can overlap)
 - Best homebrew/tool (1) (running on a GB/GBC)
 - Best music cartridge (1)
-- Best demo (1)
+- Best demo (1) (demoscene style demos)
 
 The rankings are decided according to the [JUDGING](#JUDGING) criteria.
  
@@ -104,7 +104,7 @@ If you publish your game source code and assets on a public repository (e.g. Git
 3. GBC features are allowed.
 4. SGB features are allowed. The entries will be evaluated mainly on Game Boy (Color). You can use SGB features, but don't rely on them as main features for your entry.
 5. Teams are allowed (award will be split).
-6. The competition is focused on *games*, but you are allowed to submit *homebrew tools*, *demos* and *music cartridges*. There may be special category prizes for those. There are no preferred themes.
+6. The competition is focused on *games*, but you are allowed to submit *homebrew tools*, *demoscene style demos* and *music cartridges*. There may be special category prizes for those. There are no preferred themes.
 7. ROM Hacks are not allowed.
 8. NSFW content is not allowed. Please keep it safe for work and avoid anything overly edgy or distasteful. 
 9. You can submit more than one entry. They will be rated separately, but each person or team may only accept prizes on behalf of a single entry (e.g., you can't win both the 1st and 2nd place prize).
