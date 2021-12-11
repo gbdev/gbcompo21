@@ -11,7 +11,7 @@ Create original games, demos, homebrews tools and music for the original Game Bo
 
 ## Results
 
-The results will be announced [here](results.md)
+Full leaderboards are available [here](results.md). Every entry is playable [here](https://hh.gbdev.io/games/gbcompo21).
 
 ## Sponsors
 
@@ -25,8 +25,6 @@ The entire prize pool is community funded. Donate or sponsor the competition thr
 <a href="https://megacatstudios.com/" target="_blank"> <img src="assets/mega_cat_studios_hq.png" alt="Mega Cat Studios" height="50"></a>
 <a href="http://www.bitmapsoft.co.uk/" target="_blank"> <img src="assets/bitmap_soft.png" alt="Bitmap Soft" height="50"></a>
 <a href="https://firstpressgames.com" target="_blank"> <img src="assets/1stpress_2.png" alt="1st Press Games" height="50"></a>
-
-
 
 
 ### Donations from Individuals
