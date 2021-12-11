@@ -1,5 +1,7 @@
 # Results
 
+Every entry is playable [here](https://hh.gbdev.io/games/gbcompo21).
+
 ## Games
 
 ### Full leaderboard
@@ -28,13 +30,96 @@ Sorted by "Overall" score, only the shortlisted entries were ranked by judges.
 
 ### Gameplay
 
+|Name                         |Gameplay|
+|-----------------------------|--------|
+|Unhearthed                   |4.29    |
+|Rebound                      |4.0     |
+|Porklike GB                  |4.0     |
+|Shock Lobster                |4.0     |
+|Dango Dash                   |3.86    |
+|Sushi Nights                 |3.86    |
+|Rhythm Land                  |3.71    |
+|\<corrib75\>                 |3.71    |
+|Fix My Heart                 |3.71    |
+|Renegade rush                |3.57    |
+|Glory Hunters                |3.43    |
+|MARLA and the Elemental Rings|3.29    |
+|El Dueloroso                 |3.29    |
+|Core Machina                 |3.14    |
+|GB Corp.                     |3.14    |
+|GBCspelunky                  |3.0     |
+|Dawn Will Come               |2.71    |
+
+
 ### Technical
 
+|Name                         |Technical|
+|-----------------------------|---------|
+|Shock Lobster                |4.29     |
+|Porklike GB                  |4.0      |
+|Sushi Nights                 |3.86     |
+|\<corrib75\>                 |3.86     |
+|GB Corp.                     |3.86     |
+|MARLA and the Elemental Rings|3.86     |
+|Unhearthed                   |3.86     |
+|Rebound                      |3.86     |
+|Rhythm Land                  |3.71     |
+|GBCspelunky                  |3.71     |
+|El Dueloroso                 |3.57     |
+|Renegade rush                |3.57     |
+|Core Machina                 |3.43     |
+|Dango Dash                   |3.29     |
+|Dawn Will Come               |3.14     |
+|Glory Hunters                |3.14     |
+|Fix My Heart                 |2.86     |
+
+
 ### Originality
+
+|Name                         |Originality|
+|-----------------------------|-----------|
+|Unhearthed                   |4.86       |
+|Shock Lobster                |4.71       |
+|GB Corp.                     |4.57       |
+|Dawn Will Come               |4.29       |
+|Rhythm Land                  |4.14       |
+|Core Machina                 |4.0        |
+|Sushi Nights                 |4.0        |
+|Dango Dash                   |3.86       |
+|El Dueloroso                 |3.86       |
+|Rebound                      |3.57       |
+|Fix My Heart                 |3.57       |
+|MARLA and the Elemental Rings|3.43       |
+|Glory Hunters                |3.43       |
+|Renegade rush                |3.29       |
+|Porklike GB                  |3.14       |
+|\<corrib75\>                 |3.14       |
+|GBCspelunky                  |2.43       |
 
 ### Graphics
 
 ### Audio
+
+|Name                         |Audio|
+|-----------------------------|-----|
+|Dango Dash                   |4.57 |
+|Rhythm Land                  |4.57 |
+|Rebound                      |4.29 |
+|Core Machina                 |4.14 |
+|MARLA and the Elemental Rings|3.86 |
+|Porklike GB                  |3.71 |
+|Sushi Nights                 |3.71 |
+|Glory Hunters                |3.43 |
+|Dawn Will Come               |3.43 |
+|El Dueloroso                 |3.29 |
+|Renegade rush                |3.29 |
+|Unhearthed                   |3.29 |
+|\<corrib75\>                 |3.29 |
+|GB Corp.                     |3.29 |
+|Shock Lobster                |3.14 |
+|Fix My Heart                 |2.71 |
+|GBCspelunky                  |2.57 |
+
 
 
 ## Music
