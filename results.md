@@ -10,7 +10,7 @@ Sorted by "Overall" score, only the shortlisted entries were ranked by judges.
 
 |Name                         |Gameplay          |Technical         |Originality       |Graphics          |Audio             |**Overall**       |
 |-----------------------------|------------------|------------------|------------------|------------------|------------------|------------------|
-|Unhearthed                   |4.29              |3.86              |4.86              |4.43              |3.29              |4.15              |
+|Unearthed                    |4.29              |3.86              |4.86              |4.43              |3.29              |4.15              |
 |Rhythm Land                  |3.71              |3.71              |4.14              |3.86              |4.57              |4.0               |
 |Shock Lobster                |4.0               |4.29              |4.71              |3.71              |3.14              |3.97              |
 |Dango Dash                   |3.86              |3.29              |3.86              |4.0               |4.57              |3.92              |
@@ -32,7 +32,7 @@ Sorted by "Overall" score, only the shortlisted entries were ranked by judges.
 
 |Name                         |Gameplay|
 |-----------------------------|--------|
-|Unhearthed                   |4.29    |
+|Unearthed                    |4.29    |
 |Rebound                      |4.0     |
 |Porklike GB                  |4.0     |
 |Shock Lobster                |4.0     |
@@ -61,7 +61,7 @@ Sorted by "Overall" score, only the shortlisted entries were ranked by judges.
 |\<corrib75\>                 |3.86     |
 |GB Corp.                     |3.86     |
 |MARLA and the Elemental Rings|3.86     |
-|Unhearthed                   |3.86     |
+|Unearthed                    |3.86     |
 |Rebound                      |3.86     |
 |Rhythm Land                  |3.71     |
 |GBCspelunky                  |3.71     |
@@ -78,7 +78,7 @@ Sorted by "Overall" score, only the shortlisted entries were ranked by judges.
 
 |Name                         |Originality|
 |-----------------------------|-----------|
-|Unhearthed                   |4.86       |
+|Unearthed                    |4.86       |
 |Shock Lobster                |4.71       |
 |GB Corp.                     |4.57       |
 |Dawn Will Come               |4.29       |
@@ -113,7 +113,7 @@ Sorted by "Overall" score, only the shortlisted entries were ranked by judges.
 |Dawn Will Come               |3.43 |
 |El Dueloroso                 |3.29 |
 |Renegade rush                |3.29 |
-|Unhearthed                   |3.29 |
+|Unearthed                    |3.29 |
 |\<corrib75\>                 |3.29 |
 |GB Corp.                     |3.29 |
 |Shock Lobster                |3.14 |
