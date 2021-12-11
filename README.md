@@ -13,7 +13,7 @@ Create original games, demos, homebrews tools and music for the original Game Bo
 
 ### Games
 
-1. Unhearthed
+1. Unearthed
 2. Rhythm Land
 3. Shock Lobster
 4. Dango Dash
