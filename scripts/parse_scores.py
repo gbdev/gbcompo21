@@ -18,8 +18,10 @@ for i, el in enumerate(df.columns[2:]):
     m = re.match(exp, el)
     name = m.group(1)
     cat = m.group(2)
+
     # Compute means and get the mean for selected category
-    avg_cat_score = df.mean(axis=0)[i]
+    # Round to 2 decimal digits
+    avg_cat_score = df.mean(axis=0)[i].round(2)
 
     if name not in scores:
         scores[name] = {}
@@ -35,7 +37,8 @@ for i, el in enumerate(df.columns[2:]):
         avgs[name] += avg_cat_score
     # Compute mean of every category (Overall)
     if count[name] == 5:
-        scores[name]["Overall"] = avgs[name] / 5
+        mean = avgs[name] / 5
+        scores[name]["Overall"] = mean.round(2)
 
 ## Write results to CSV
 
@@ -54,4 +57,19 @@ with open('scores.csv', 'w', encoding='UTF8') as f:
             data.append(scores[game][category])
         writer.writerow(data)
 
-print(scores)
+# Quick hack to reorder by "Overall"
+
+csv_file = pd.read_csv("scores.csv") 
+
+df = pd.DataFrame(csv_file)
+
+df = df.sort_values(by=['Overall'], ascending=False)
+
+df.to_csv('sorted_scores.csv', index=False)
+
+# Filtered leaderboards
+
+for cat in ["Gameplay", "Technical", "Originality", "Graphics", "Audio"]:
+    df1 = df[['Name', cat]]
+    df1 = df1.sort_values(by=[cat], ascending=False)
+    df1.to_csv(f'{cat}.csv', index=False)
