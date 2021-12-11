@@ -11,6 +11,27 @@ Create original games, demos, homebrews tools and music for the original Game Bo
 
 ## Results
 
+### Games
+
+1. Unhearthed
+2. Rhythm Land
+3. Shock Lobster
+4. Dango Dash
+5. Rebound
+6. Core Machina
+7. Sushi Nights
+8. MARLA and the Elemental Rings
+9. Porklike GB
+10. GB Corp
+11. Dawn Will Come
+12. \<corrib75\>
+13. El Dueloroso
+14. Glory Hunter
+15. Renegade rush
+16. Fix My Heart
+17. GBCspelunky
+
+
 Full leaderboards are available [here](results.md). Every entry is playable [here](https://hh.gbdev.io/games/gbcompo21).
 
 ## Sponsors
