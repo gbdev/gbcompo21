@@ -98,6 +98,27 @@ Sorted by "Overall" score, only the shortlisted entries were ranked by judges.
 
 ### Graphics
 
+|Name                         |Graphics|
+|-----------------------------|--------|
+|Core Machina                 |4.57    |
+|Unearthed                    |4.43    |
+|Dawn Will Come               |4.29    |
+|Dango Dash                   |4.0     |
+|MARLA and the Elemental Rings|4.0     |
+|Rhythm Land                  |3.86    |
+|\<corrib75\>                 |3.71    |
+|GBCspelunky                  |3.71    |
+|Rebound                      |3.71    |
+|Shock Lobster                |3.71    |
+|Sushi Nights                 |3.71    |
+|Glory Hunters                |3.57    |
+|Porklike GB                  |3.57    |
+|GB Corp.                     |3.14    |
+|El Dueloroso                 |3.0     |
+|Renegade rush                |3.0     |
+|Fix My Heart                 |2.71    |
+
+
 ### Audio
 
 |Name                         |Audio|
