@@ -2,6 +2,11 @@
 
 Every entry is playable [here](https://hh.gbdev.io/games/gbcompo21).
 
+
+## Music
+
+**Winner**: Zilogized by Kabcorp
+
 ## Games
 
 ### Full leaderboard
@@ -141,10 +146,6 @@ Sorted by "Overall" score, only the shortlisted entries were ranked by judges.
 |Fix My Heart                 |2.71 |
 |GBCspelunky                  |2.57 |
 
+## Tools
 
-
-## Music
-
-**Winner**: Zilogized by Kabcorp
-
-For the other categories, check back soon.
+**Winner**: BrainFox by Yprit
