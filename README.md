@@ -5,7 +5,7 @@
 
 Create original games, demos, homebrews tools and music for the original Game Boy (Color) and compete for glory (and up to ![$3000+](https://shields.io/endpoint?url=https%3A%2F%2Fcellshield.info%2Fgs%3FspreadSheetId%3D196vIZGLbSk1ewzRnZc7Dy_LJdPQpfJUg-udT4iyBVOg%26cellRange%3DI11) in prizes)!
 
-### Join the **GB COMPO 2021** from July 1 to October 1 at [itch.io/jam/gbcompo21](https://itch.io/jam/gbcompo21)
+The jam run from July 1 to October 1 2021 and it was hosted on [itch.io/jam/gbcompo21](https://itch.io/jam/gbcompo21).
 
 ---
 
@@ -31,8 +31,12 @@ Create original games, demos, homebrews tools and music for the original Game Bo
 16. Fix My Heart
 17. GBCspelunky
 
+Winning entry for the **Music** category: Zilogized
 
-Full leaderboards are available [here](results.md). Every entry is playable [here](https://hh.gbdev.io/games/gbcompo21).
+Winning entry for the **Tools** category: Brainfox
+
+
+Full leaderboards are available [here](results.md). Top rated entries are playable [here](https://hh.gbdev.io/games/gbcompo21) while the complete list can be found on [Itch.io](https://itch.io/jam/gbcompo21/entries).
 
 ## Sponsors
 
